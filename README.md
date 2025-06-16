@@ -2,6 +2,7 @@
 Desenvolvimento feito para o concurso agrinho  2025.
 
 TECNOLOGIA-CAMPO-E-CIDADE
+
 Objetivo do projeto:
     O projeto tem como principal objetivo demostrar como o campo se conecta como a cidade atraves das tecnologias e as influencias do mesmo. O trabalho tambem mostra como a tecnologia aumenta a produçao dos alimentos afetando o aumnento do consumo nas cidades.
 
